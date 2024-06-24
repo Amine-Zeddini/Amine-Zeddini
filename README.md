@@ -31,7 +31,7 @@ I'm Amine Zeddini, a passionate software developer and tech enthusiast.
   - Web development
 
 - 📫 How to reach me:
-  - Email: [amine.zeddini@example.com](mailto:amine.zeddini@example.com)
+  - Email: [mohamedamine.zeddini.isims@gmail.com](mailto:mohamedamine.zeddini.isims@gmail.com)
   - LinkedIn: [Amine Zeddini](https://www.linkedin.com/in/amine-zeddini)
   - Twitter: [@amine_zeddini](https://twitter.com/amine_zeddini)
 
@@ -45,11 +45,13 @@ I'm Amine Zeddini, a passionate software developer and tech enthusiast.
 
 ### Technologies & Tools
 
-![.NET](https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg)
-![Spring Boot](https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg)
-![Angular](https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg)
-![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="Spring Boot" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="60" height="60"/>
+</p>
 
 ---
 
