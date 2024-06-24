@@ -34,8 +34,16 @@ I'm Amine Zeddini, a passionate software developer and tech enthusiast.
 
 ![Web Development](https://www.example.com/web-development.jpg)
 
+### Technologies & Tools
+
+![.NET](https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg)
+![Spring Boot](https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg)
+![Angular](https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg)
+![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
+
 - 📫 How to reach me:
-  - Email: [mohamedamine.zeddini.isims@gmail.com](mohamedamine.zeddini.isims@gmail.com)
+  - Email: [amine.zeddini@example.com](mailto:amine.zeddini@example.com)
   - LinkedIn: [Amine Zeddini](https://www.linkedin.com/in/amine-zeddini)
   - Twitter: [@amine_zeddini](https://twitter.com/amine_zeddini)
 
